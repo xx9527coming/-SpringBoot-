@@ -1,0 +1,2 @@
+# -SpringBoot-
+这是一个超超超超超超超简单的基于SpringBoot的学生管理系统(使用了springboot+mybatis+mysql技术来实现)
